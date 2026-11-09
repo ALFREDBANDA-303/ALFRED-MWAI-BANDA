@@ -22,7 +22,7 @@ The portrait area displays initials if the photo is not present. CV links point 
 3. Connect this GitHub repository or upload the project files.
 4. For a static site, leave the build command empty.
 5. Set the build output directory to `/` or the repository root, depending on the Pages setup screen.
-6. Deploy. The expected Pages hostname is `https://alfredbanda.pages.dev`.
+6. Deploy. The expected Pages hostname is `https://alfred-mwai-banda.bandaalfred303.workers.dev`.
 
 The `pages.dev` hostname is assigned by Cloudflare. It becomes available after the project is created and deployed under the `alfredbanda` project name.
 

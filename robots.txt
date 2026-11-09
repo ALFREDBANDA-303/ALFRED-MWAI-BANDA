@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alfredbanda.pages.dev/sitemap.xml
+Sitemap: https://alfred-mwai-banda.bandaalfred303.workers.dev/sitemap.xml
